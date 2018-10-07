@@ -2,4 +2,4 @@
 
 ## 图灵与停机问题
 
-！[Turing]（https://github.com/muxilong/ichw/blob/master/220px-Alan_Turing_Aged_16.jpg）
+![cat](https://developers.weixin.qq.com/miniprogram/dev/image/cat/2.png?t=18092914)
