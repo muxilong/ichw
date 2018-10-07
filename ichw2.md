@@ -86,6 +86,7 @@ Sign|	Exponent	|Fraction	|Value
 |1 1 1 1 1 1 1	|0 0 0 0 0 0 0 0	|￼
 |1 1 1 1 1 1 1	|non zero	|NaN
 
+![图表](https://github.com/muxilong/ichw/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-07%2020.47.30.png?raw=true)
 
 
 
