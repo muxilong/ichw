@@ -105,9 +105,19 @@
 
 ### 1.虚拟存储器的概念
 
+>virtual memory (also virtual storage) is a memory management technique that provides an "idealized abstraction of the storage resources that are actually available on a given machine"[1] which "creates the illusion to users of a very large (main) memory.(Wikipedia)
+
+虚拟内存是一种内存管理技术，它能提供“在给定计算机上实际可用的储存资源的一种理想化的抽象”，创造一种使用户感觉储存空间很大的一种假象。
+
 ### 2.虚拟存储器的工作原理
 
 ### 3.虚拟存储器的作用
+
+虚拟内存的主要优点包括使应用程序不必管理共享内存空间，
+
+由于内存隔离而提高安全性，
+
+以及使用分页技术在概念上使用比物理上可用的内存更多的内存。
 
 
 
